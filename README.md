@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sohamactive
 - 👀 I’m interested in competitve programming & web development
-- 🌱 I’m currently learning cpp(cp) and flask
-- 📫 How to reach me : through insta(if possible)
+- 🌱 I’m currently learning cpp(competitve) and django(side_task)
+- 📫 How to reach me : through insta,linkedin,twitter
 
 <!---
 Sohamactive/Sohamactive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
