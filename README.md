@@ -19,6 +19,5 @@
 Sohamactive/Sohamactive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-i am an engineer
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohamactive&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamactive)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
