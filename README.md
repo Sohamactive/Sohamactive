@@ -25,7 +25,17 @@ You can click the Preview link to take a look at your changes.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamactive&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamactive&layout=compact&theme=radical)
 
+###
 
+<!-- Holopin Badge -->
+<div align="center">
+  <a href="https://holopin.io/@sohamactive" target="_blank">
+    <img src="https://holopin.me/sohamactive" alt="Holopin badges of @sohamactive" height="220" />
+  </a>
+  
+</div>
+
+###
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohamactive&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br>
