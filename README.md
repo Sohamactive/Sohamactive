@@ -128,7 +128,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/Sohamactive)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sohamactive)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sohamactive)
-
+[![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]([(https://www.reddit.com/user/Impressive-Sorbet511/)])
 
 </div>
 
@@ -151,8 +151,13 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
-**Thanks for visiting! 😊**
+**Thanks for visiting! 😊**<br>
+comet referral link
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<a href="https://www.pplx.ai/sohamactive">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</a>
+
+
 
 </div>
