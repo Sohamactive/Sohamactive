@@ -152,12 +152,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 **Thanks for visiting! 😊**<br>
-comet referral link
 
-<a href="https://www.pplx.ai/sohamactive">
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-</a>
-
-
-
-</div>
