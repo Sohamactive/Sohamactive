@@ -87,27 +87,20 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
+<img width="500" height= "320" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamactive&theme=react&border=00d9ff&background=0D1117" alt="GitHub Streak" />
 <div align="center">
 
-<img width="510" src="https://github-readme-stats.vercel.app/api?username=sohamactive&show_icons=true&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamactive&layout=compact&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff" alt="Top Languages" />
 
-<img width="500" height= "320" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamactive&theme=react&border=00d9ff&background=0D1117" alt="GitHub Streak" />
-
-<img width="500"  height = "500" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+<img width="700"  height = "700" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Trophies & Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sohamactive&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-</div>
 
 ### 🏅 HOLOPIN Collection
 
