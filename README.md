@@ -87,7 +87,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-<img width="500" height= "320" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamactive&theme=react&border=00d9ff&background=0D1117" alt="GitHub Streak" />
+
 <div align="center">
 
 
