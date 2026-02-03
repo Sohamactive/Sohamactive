@@ -3,7 +3,7 @@ name: Update Space Shooter Game
 on:
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:     # Allow manual trigger
 
 permissions:
   contents: write
@@ -14,8 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: czl9707/gh-space-shooter@v1
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: 'YOUR_ACTUAL_USERNAME' # <-- Change this to your GitHub username!
           output-path: 'game.gif'
           strategy: 'random'
