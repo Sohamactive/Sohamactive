@@ -80,11 +80,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sohamactive&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 🏅 HOLOPIN Collection
 
 <div align="center">
