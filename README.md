@@ -17,8 +17,8 @@
 <br>
 
 - 👋 Hi, I’m @Sohamactive
-- 👀 I’m interested in competitive programming & web development
-- 🌱 I’m currently learning cpp(competitive) and building projects
+- 👀 I’m interested in genai & web development
+- 🌱 I’m currently learning agentic ai and building projects
 
 <br>
 
