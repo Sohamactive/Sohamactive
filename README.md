@@ -53,25 +53,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Arsenal
-
 <div align="center">
 
-### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js&perline=4)](https://skillicons.dev)
+### 🛠 Tech Arsenal
 
-### 🌐 Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,fastapi,flask&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,django,fastapi,flask,mysql,sqlite,git,github,notion,vscode,pycharm,react,linux&perline=9)](https://skillicons.dev)
 
-### 🗄️ Databases & Tools  
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,github,notion&perline=5)](https://skillicons.dev)
-
-### 🛠️ Development Environment
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm&perline=3)](https://skillicons.dev)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 Learning Next
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=react,linux&perline=5)](https://skillicons.dev)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 </div>
 
