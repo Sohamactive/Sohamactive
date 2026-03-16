@@ -1,25 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Competitive%20Programmer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sohamactive&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Introverted%20ambivert%20with%20main-character%20overthinking&descAlignY=51&descAlign=50" />
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sohamactive&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/sohamactive?color=00d9ff&style=for-the-badge&label=FOLLOWERS)
-  ![Stars](https://img.shields.io/github/stars/sohamactive?color=00d9ff&style=for-the-badge&label=STARS)
-  
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 <br>
 
-- 👋 Hi, I’m @Sohamactive
-- 👀 I’m interested in genai & web development
-- 🌱 I’m currently learning agentic ai and building projects
-
+-  Yo 😀 ! me @Sohamactive
+-  I’m interested in genai 🤖 & web development
+-  currently learning agentic ai and building projects (avg techie fomo nowadays)
+-  Building with Django/fastapi, RAG pipelines, and LLM agents
+- my hobbies : sleeping (record : 14 hrs) , overthinking (record : eternity)
 <br>
 
 <div align="center">
@@ -30,8 +24,8 @@
   <tr>
     <td align="center" width="200px">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="80"/>
-      <br><strong>DSA</strong>
-      <br><sub>Solving algorithmic challenges daily</sub>
+      <br><strong>Machine Learning</strong>
+      <br><sub>university course ,with slight interest</sub>
     </td>
     <td align="center" width="200px">
       <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Web Dev" width="80"/>
@@ -68,9 +62,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
+
+
 <div align="center">
-<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sohamactive&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamactive" />
+
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+
 </div>
 ### 🏅 HOLOPIN Collection
 
@@ -112,4 +111,9 @@
 
 **Thanks for visiting! 😊**
 
+</div>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sohamactive&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+  
 </div>
