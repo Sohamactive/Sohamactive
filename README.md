@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sohamactive&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Introverted%20ambivert%20with%20main-character%20overthinking&descAlignY=51&descAlign=50" />
+  <img src="https://cdn.discordapp.com/attachments/1431194293900414986/1535208110879146055/ChatGPT_Image_Aug_7_2026_02_18_37_PM.png?ex=6a76ed78&is=6a759bf8&hm=290f4f4a0ca52be3c2b356c9df0acb9b3a3bdc17b729755e5e861bc7ae9f1804&" />
 </div>
 
 
@@ -55,22 +55,9 @@
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamactive" />
-
-<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamactive&custom_title=Soham's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-
-</div>
 ### 🏅 HOLOPIN Collection
 
 <div align="center">
@@ -90,7 +77,7 @@
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Sohamactive)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sohamactive)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sohamactive)
-[![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Impressive-Sorbet511/)
+
 
 </div>
 
@@ -99,11 +86,7 @@
 
 <div align="center">
 
-## 👾 My GitHub Space Shooter
-  
-<img src="./game.gif" width="100%" alt="My GitHub Game">
 
-<br>
 
 ### Show some ❤️ by starring some of the repositories!
 
@@ -112,8 +95,4 @@
 **Thanks for visiting! 😊**
 
 </div>
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=sohamactive&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
-  
-</div>
+
