@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1431194293900414986/1535208110879146055/ChatGPT_Image_Aug_7_2026_02_18_37_PM.png?ex=6a76ed78&is=6a759bf8&hm=290f4f4a0ca52be3c2b356c9df0acb9b3a3bdc17b729755e5e861bc7ae9f1804&" />
+  <img src="Moonlit Egyptian Pixel-Art Banner.png" />
 </div>
 
 
